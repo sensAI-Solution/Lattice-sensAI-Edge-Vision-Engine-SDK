@@ -31,7 +31,7 @@ A product key is needed to activate EVE. If you don’t already have a product k
 ## Software Setup
 ### Installing EVE on Windows
 To install EVE on Windows, follow these steps:
-1. Download the latest version of the Windows package from our [GitHub](https://github.com/sensAI-Solution/Lattice-sensAI-Edge-Vision-Engine-SDK).
+1. Download the latest version of the Windows package from our [GitHub](https://github.com/sensAI-Solution/Lattice-sensAI-Edge-Vision-Engine-SDK/releases).
 2. Unzip the package into an empty folder.
 3. Open File Explorer in the folder where EVE was unzipped.
 4. Run `EveAuthenticator` with your product key, using the following command:
@@ -41,7 +41,7 @@ EveAuthenticator.exe -k [key]
 
 ### Installing EVE on Linux
 To install EVE on Linux (PC or Raspberry Pi 5), follow these steps:
-1. Download the latest version of the Debian package from our [GitHub](https://github.com/sensAI-Solution/Lattice-sensAI-Edge-Vision-Engine-SDK).
+1. Download the latest version of the Debian package from our [GitHub](https://github.com/sensAI-Solution/Lattice-sensAI-Edge-Vision-Engine-SDK/releases).
 2. Open a terminal, and install the package with the following command:
 ```bash
 sudo apt install ./linux_package_name_x64/ARM.deb
