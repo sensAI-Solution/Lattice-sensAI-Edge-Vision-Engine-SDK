@@ -1,6 +1,8 @@
 # Lattice sensAI EdgeVisionEngine SDK
 The Edge Vision Engine (EVE) software library runs computer vision and AI algorithms on an image to extract data relative to your presence and your environment. EVE uses a combination of central processing unit (CPU) and neural processing unit (NPU) to achieve maximum efficiency. EVE focuses on Human Machine Interface (HMI) algorithms such as tracking your face, computing your distance from the camera, detecting persons and various objects, and more. The data computed by EVE is available to other applications via the EVE Software Development Kit (SDK). EVE can run on Windows and Linux computers (x64), and small devices such as the Raspberry Pi (Linux ARM).
 
+Try EVE live on [Hugging Face](https://huggingface.co/spaces/LatticeSemi/sensAI-Edge-Vision-Engine-SDK).
+
 ## Hardware Requirements
 ### Windows PC
 - **OS**: Windows 11.
